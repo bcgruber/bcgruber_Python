@@ -18,6 +18,8 @@ delete a user by name (extra challenge: can you figure out how to delete a user 
 >Submit a link to the Github repo containing your script on canvas.
 
 '''
+#Adding this comment to make an edit on the GIT Hub site and import the changes locally.  Also 
+#I added the regex import to the script to handle exceptions 
 
 import re
 from sortedcontainers import SortedDict
