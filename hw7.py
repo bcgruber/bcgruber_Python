@@ -13,9 +13,9 @@ delete a user by name (extra challenge: can you figure out how to delete a user 
 
 >Add doc strings to the script and comment the code.
 
-Push your finished script to your personal, publicly accessible Github repo.
+>Push your finished script to your personal, publicly accessible Github repo.
 
-Submit a link to the Github repo containing your script on canvas.
+>Submit a link to the Github repo containing your script on canvas.
 
 '''
 
