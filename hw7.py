@@ -18,6 +18,8 @@ Push your finished script to your personal, publicly accessible Github repo.
 Submit a link to the Github repo containing your script on canvas.
 
 '''
+#Adding this comment to make an edit on the GIT Hub site and import the changes locally.  Also 
+#I added the regex import to the script to handle exceptions 
 
 import re
 from sortedcontainers import SortedDict
